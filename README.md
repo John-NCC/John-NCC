@@ -1,6 +1,6 @@
-## ¡Hola! 👋
+# ¡Hola! 👋
 
-# Un poco sobre mí...
+## Un poco sobre mí...
 
 Soy un entusiasta de las matemáticas, la física y la programación. Me encanta enfrentar nuevos desafíos y seguir aprendiendo cada día.
 
